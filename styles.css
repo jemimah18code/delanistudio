@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.studio{
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url('IP3-master/assets/backgrounds/h_img.jpg');
+}
+
+#mouse{
+    position: absolute;
+    bottom: 20px;
+}
+
+.about{
+    color: black;
+    text-align: center;
+}
+
+.services{
+    color: white;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(IP3-master/assets/backgrounds/s_image.jpg);
+
+}
+
+.What-we-do{
+    color: black;
+    text-align: center;
+}
+
+.PORTFOLIO{
+    color: black;
+    text-align: center;
+}
+
+.CONTACT-US{
+    color: black;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(IP3-master/assets/backgrounds/c_image.jpg);
+    
+    
+
+
+    
+    
+    
+    
+    
+
+}
